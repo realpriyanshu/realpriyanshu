@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/realpriyanshu](https://github.com/realpriyanshu)
 
-- 📝 I regularly write articles [https://medium.com/@oppriyanshu](https://medium.com/@oppriyanshu)
+- 📝  articles [https://medium.com/@oppriyanshu](https://medium.com/@oppriyanshu)
 
-- 📫 How to reach me **oppriyanshu@gmail.com**
+- 📫 How to reach me **priyanshumewada02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

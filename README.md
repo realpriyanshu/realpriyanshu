@@ -3,6 +3,9 @@
 
 - BLOGS📚 [AWS Storage Solutions Decoded: Understanding EBS, EFS, and S3](https://medium.com/@oppriyanshu/aws-storage-solutions-decoded-understanding-ebs-efs-and-s3-f032ab78eb36)
 
+-    **AWS certified practitioner ✅
+-    **Github Actions Certified ✅
+
 - 🌱 I’m currently learning **AWS cloud , Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/realpriyanshu](https://github.com/realpriyanshu)

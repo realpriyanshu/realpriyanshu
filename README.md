@@ -3,8 +3,8 @@
 
 - BLOGS📚 [AWS Storage Solutions Decoded: Understanding EBS, EFS, and S3](https://medium.com/@oppriyanshu/aws-storage-solutions-decoded-understanding-ebs-efs-and-s3-f032ab78eb36)
 
--    **AWS certified practitioner ✅
--    **Github Actions Certified ✅
+-    **AWS certified practitioner ✅  https://www.credly.com/badges/eedf58ea-089e-4946-a634-8ed3a6cd16fe
+-    **Github Actions Certified ✅  https://www.credly.com/badges/56541bb6-ad59-4e61-b79d-51e5e0c90ae3/public_url
 
 - 🌱 I’m currently learning **AWS cloud , Web Development**
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Mewada 👨‍💻</h1>
+<h1 align="center">Hi 👋, I'm Priyanshu Mewada </h1>
 <h3 align="center">An undergraduate who is Passionate about continuous growth 📈</h3>
 
 - BLOGS📚 [AWS Storage Solutions Decoded: Understanding EBS, EFS, and S3](https://medium.com/@oppriyanshu/aws-storage-solutions-decoded-understanding-ebs-efs-and-s3-f032ab78eb36)
